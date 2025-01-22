@@ -26,3 +26,4 @@ TODO: list of authors
 TODO: cite any tutorials followed here
 [Portfolio Website Tutorial](https://www.youtube.com/watch?v=Kb1f5bvF6f4)
 [Resend API Tutorial](https://www.youtube.com/watch?v=fEeksraKfJI)
+[Gmail API Tutorial](https://www.youtube.com/watch?v=oujAYWgYwtM)
