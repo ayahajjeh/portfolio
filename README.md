@@ -24,4 +24,5 @@ TODO: list of authors
 ## Acknowledgments
 
 TODO: cite any tutorials followed here
-https://www.youtube.com/watch?v=Kb1f5bvF6f4
+[Portfolio Website Tutorial](https://www.youtube.com/watch?v=Kb1f5bvF6f4)
+[Resend API Tutorial](https://www.youtube.com/watch?v=fEeksraKfJI)
